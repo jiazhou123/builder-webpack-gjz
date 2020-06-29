@@ -1,0 +1,9 @@
+{
+    "presets": [
+        "@babel/preset-env",    // es6  --> js
+        "@babel/preset-react"   // jsx  --> js
+    ],
+    "plugins": [
+        "@babel/plugin-syntax-dynamic-import"       // 代码分割（按需加载组件）插件
+    ]
+}

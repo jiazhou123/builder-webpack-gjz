@@ -1,0 +1,45 @@
+[
+    {
+        "link": "https://time.geekbang.org/",
+        "name": "讲堂",
+        "alias": "Index"
+    },
+    {
+        "link": "https://horde.geekbang.org/home",
+        "name": "部落",
+        "alias": "Horde"
+    },
+    {
+        "link": "https://u.geekbang.org/subject/fe/1000447",
+        "name": "前端进阶训练营",
+        "hot": true
+    },
+    {
+        "link": "https://u.geekbang.org/subject/algorithm/1000343",
+        "name": "算法训练营"
+    },
+    {
+        "link": "https://u.geekbang.org/subject/python/1000389",
+        "name": "Python进阶训练营",
+        "hot": true
+    },
+    {
+        "link": "https://b.geekbang.org/?utm_campaign=qiyezhanghao",
+        "name": "企业版",
+        "service": true
+    },
+    {
+        "link": "https://h5.youzan.com/v2/feature/TJe4bYhxyP?dc_ps=2293231415741009926.200001",
+        "name": "极客商城"
+    },
+    {
+        "link": "https://time.geekbang.org/service/exchange",
+        "name": "兑换中心",
+        "alias": "Code"
+    },
+    {
+        "link": "https://time.geekbang.org/download",
+        "name": "App下载",
+        "alias": "Download",
+        "download": true
+    }]
