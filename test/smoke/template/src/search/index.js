@@ -33,7 +33,7 @@ class Search extends React.Component {
                 { 
                     Text ? <Text /> : null
                 }
-                <span>搜索页text </span>
+                <span>搜索页textaa </span>
                 <img src={ Logo } onClick={ this.loadComponent.bind(this) } />
                 <span>{ result }</span>
             </div>
